@@ -1,0 +1,5 @@
+/ConsoleCommandEvent.php
+/ConsoleErrorEvent.php
+/ConsoleEvent.php
+/ConsoleSignalEvent.php
+/ConsoleTerminateEvent.php

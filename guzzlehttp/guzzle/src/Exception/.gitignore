@@ -1,0 +1,9 @@
+/BadResponseException.php
+/ClientException.php
+/ConnectException.php
+/GuzzleException.php
+/InvalidArgumentException.php
+/RequestException.php
+/ServerException.php
+/TooManyRedirectsException.php
+/TransferException.php

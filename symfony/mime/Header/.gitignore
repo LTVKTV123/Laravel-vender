@@ -1,0 +1,10 @@
+/AbstractHeader.php
+/DateHeader.php
+/HeaderInterface.php
+/Headers.php
+/IdentificationHeader.php
+/MailboxHeader.php
+/MailboxListHeader.php
+/ParameterizedHeader.php
+/PathHeader.php
+/UnstructuredHeader.php

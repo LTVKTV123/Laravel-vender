@@ -1,0 +1,12 @@
+/AbstractArray.php
+/AbstractCollection.php
+/AbstractSet.php
+/ArrayInterface.php
+/Collection.php
+/CollectionInterface.php
+/DoubleEndedQueue.php
+/DoubleEndedQueueInterface.php
+/GenericArray.php
+/Queue.php
+/QueueInterface.php
+/Set.php

@@ -1,0 +1,7 @@
+/CollectionMismatchException.php
+/InvalidArgumentException.php
+/InvalidSortOrderException.php
+/NoSuchElementException.php
+/OutOfBoundsException.php
+/UnsupportedOperationException.php
+/ValueExtractionException.php

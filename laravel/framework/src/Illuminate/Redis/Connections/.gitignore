@@ -1,0 +1,5 @@
+/Connection.php
+/PhpRedisClusterConnection.php
+/PhpRedisConnection.php
+/PredisClusterConnection.php
+/PredisConnection.php

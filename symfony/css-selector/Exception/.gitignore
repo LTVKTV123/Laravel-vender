@@ -1,0 +1,5 @@
+/ExceptionInterface.php
+/ExpressionErrorException.php
+/InternalErrorException.php
+/ParseException.php
+/SyntaxErrorException.php

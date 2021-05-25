@@ -1,0 +1,10 @@
+/big_parent_class.rst
+/class_constants.rst
+/default_expectations.rst
+/detecting_mock_objects.rst
+/index.rst
+/map.rst.inc
+/mockery_on.rst
+/mocking_class_within_class.rst
+/mocking_hard_dependencies.rst
+/not_calling_the_constructor.rst

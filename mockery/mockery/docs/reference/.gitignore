@@ -1,0 +1,17 @@
+/alternative_should_receive_syntax.rst
+/argument_validation.rst
+/creating_test_doubles.rst
+/demeter_chains.rst
+/expectations.rst
+/final_methods_classes.rst
+/index.rst
+/instance_mocking.rst
+/magic_methods.rst
+/map.rst.inc
+/partial_mocks.rst
+/pass_by_reference_behaviours.rst
+/phpunit_integration.rst
+/protected_methods.rst
+/public_properties.rst
+/public_static_properties.rst
+/spies.rst

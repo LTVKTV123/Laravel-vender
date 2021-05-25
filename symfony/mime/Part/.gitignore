@@ -1,0 +1,6 @@
+/AbstractMultipartPart.php
+/AbstractPart.php
+/DataPart.php
+/MessagePart.php
+/SMimePart.php
+/TextPart.php

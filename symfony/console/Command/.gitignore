@@ -1,0 +1,5 @@
+/Command.php
+/HelpCommand.php
+/ListCommand.php
+/LockableTrait.php
+/SignalableCommandInterface.php

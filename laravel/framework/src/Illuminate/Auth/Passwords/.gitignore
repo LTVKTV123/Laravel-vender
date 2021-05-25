@@ -1,0 +1,6 @@
+/CanResetPassword.php
+/DatabaseTokenRepository.php
+/PasswordBroker.php
+/PasswordBrokerManager.php
+/PasswordResetServiceProvider.php
+/TokenRepositoryInterface.php

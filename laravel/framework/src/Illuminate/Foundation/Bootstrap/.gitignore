@@ -1,0 +1,7 @@
+/BootProviders.php
+/HandleExceptions.php
+/LoadConfiguration.php
+/LoadEnvironmentVariables.php
+/RegisterFacades.php
+/RegisterProviders.php
+/SetRequestForConsole.php

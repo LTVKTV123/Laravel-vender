@@ -1,0 +1,11 @@
+/AnnotationClassLoader.php
+/AnnotationDirectoryLoader.php
+/AnnotationFileLoader.php
+/ClosureLoader.php
+/ContainerLoader.php
+/DirectoryLoader.php
+/GlobFileLoader.php
+/ObjectLoader.php
+/PhpFileLoader.php
+/XmlFileLoader.php
+/YamlFileLoader.php

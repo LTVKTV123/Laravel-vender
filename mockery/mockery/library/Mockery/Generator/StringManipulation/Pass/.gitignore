@@ -1,0 +1,14 @@
+/AvoidMethodClashPass.php
+/CallTypeHintPass.php
+/ClassNamePass.php
+/ClassPass.php
+/ConstantsPass.php
+/InstanceMockPass.php
+/InterfacePass.php
+/MagicMethodTypeHintsPass.php
+/MethodDefinitionPass.php
+/Pass.php
+/RemoveBuiltinMethodsThatAreFinalPass.php
+/RemoveDestructorPass.php
+/RemoveUnserializeForInternalSerializableClassesPass.php
+/TraitPass.php

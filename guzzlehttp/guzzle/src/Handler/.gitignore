@@ -1,0 +1,9 @@
+/CurlFactory.php
+/CurlFactoryInterface.php
+/CurlHandler.php
+/CurlMultiHandler.php
+/EasyHandle.php
+/HeaderProcessor.php
+/MockHandler.php
+/Proxy.php
+/StreamHandler.php

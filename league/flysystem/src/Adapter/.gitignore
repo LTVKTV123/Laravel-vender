@@ -1,0 +1,8 @@
+/AbstractAdapter.php
+/AbstractFtpAdapter.php
+/CanOverwriteFiles.php
+/Ftp.php
+/Ftpd.php
+/Local.php
+/NullAdapter.php
+/SynologyFtp.php

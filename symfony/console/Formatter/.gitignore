@@ -1,0 +1,8 @@
+/NullOutputFormatter.php
+/NullOutputFormatterStyle.php
+/OutputFormatter.php
+/OutputFormatterInterface.php
+/OutputFormatterStyle.php
+/OutputFormatterStyleInterface.php
+/OutputFormatterStyleStack.php
+/WrappableOutputFormatterInterface.php

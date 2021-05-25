@@ -1,0 +1,9 @@
+/CachedWordInflector.php
+/GenericLanguageInflectorFactory.php
+/Inflector.php
+/InflectorFactory.php
+/Language.php
+/LanguageInflectorFactory.php
+/NoopWordInflector.php
+/RulesetInflector.php
+/WordInflector.php

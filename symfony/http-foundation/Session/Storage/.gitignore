@@ -1,0 +1,6 @@
+/MetadataBag.php
+/MockArraySessionStorage.php
+/MockFileSessionStorage.php
+/NativeSessionStorage.php
+/PhpBridgeSessionStorage.php
+/SessionStorageInterface.php

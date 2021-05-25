@@ -1,0 +1,13 @@
+/GitProcessor.php
+/HostnameProcessor.php
+/IntrospectionProcessor.php
+/MemoryPeakUsageProcessor.php
+/MemoryProcessor.php
+/MemoryUsageProcessor.php
+/MercurialProcessor.php
+/ProcessIdProcessor.php
+/ProcessorInterface.php
+/PsrLogMessageProcessor.php
+/TagProcessor.php
+/UidProcessor.php
+/WebProcessor.php

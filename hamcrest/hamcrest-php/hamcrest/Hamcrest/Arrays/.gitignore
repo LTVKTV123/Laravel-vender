@@ -1,0 +1,9 @@
+/IsArray.php
+/IsArrayContaining.php
+/IsArrayContainingInAnyOrder.php
+/IsArrayContainingInOrder.php
+/IsArrayContainingKey.php
+/IsArrayContainingKeyValuePair.php
+/IsArrayWithSize.php
+/MatchingOnce.php
+/SeriesMatchingOnce.php

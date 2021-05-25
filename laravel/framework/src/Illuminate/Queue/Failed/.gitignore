@@ -1,0 +1,5 @@
+/DatabaseFailedJobProvider.php
+/DatabaseUuidFailedJobProvider.php
+/DynamoDbFailedJobProvider.php
+/FailedJobProviderInterface.php
+/NullFailedJobProvider.php

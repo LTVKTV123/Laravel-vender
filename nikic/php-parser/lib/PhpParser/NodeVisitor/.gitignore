@@ -1,0 +1,6 @@
+/CloningVisitor.php
+/FindingVisitor.php
+/FirstFindingVisitor.php
+/NameResolver.php
+/NodeConnectingVisitor.php
+/ParentConnectingVisitor.php

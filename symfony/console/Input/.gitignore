@@ -1,0 +1,10 @@
+/ArgvInput.php
+/ArrayInput.php
+/Input.php
+/InputArgument.php
+/InputAwareInterface.php
+/InputDefinition.php
+/InputInterface.php
+/InputOption.php
+/StreamableInputInterface.php
+/StringInput.php

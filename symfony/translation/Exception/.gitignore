@@ -1,0 +1,6 @@
+/ExceptionInterface.php
+/InvalidArgumentException.php
+/InvalidResourceException.php
+/LogicException.php
+/NotFoundResourceException.php
+/RuntimeException.php

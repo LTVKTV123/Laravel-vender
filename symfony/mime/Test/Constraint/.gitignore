@@ -1,0 +1,6 @@
+/EmailAddressContains.php
+/EmailAttachmentCount.php
+/EmailHasHeader.php
+/EmailHeaderSame.php
+/EmailHtmlBodyContains.php
+/EmailTextBodyContains.php

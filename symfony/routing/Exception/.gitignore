@@ -1,0 +1,7 @@
+/ExceptionInterface.php
+/InvalidParameterException.php
+/MethodNotAllowedException.php
+/MissingMandatoryParametersException.php
+/NoConfigurationException.php
+/ResourceNotFoundException.php
+/RouteNotFoundException.php

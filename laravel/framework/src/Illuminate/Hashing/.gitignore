@@ -1,0 +1,8 @@
+/AbstractHasher.php
+/Argon2IdHasher.php
+/ArgonHasher.php
+/BcryptHasher.php
+/HashManager.php
+/HashServiceProvider.php
+/LICENSE.md
+/composer.json

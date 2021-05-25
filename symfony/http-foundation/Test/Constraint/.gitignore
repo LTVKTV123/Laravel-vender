@@ -1,0 +1,8 @@
+/RequestAttributeValueSame.php
+/ResponseCookieValueSame.php
+/ResponseHasCookie.php
+/ResponseHasHeader.php
+/ResponseHeaderSame.php
+/ResponseIsRedirected.php
+/ResponseIsSuccessful.php
+/ResponseStatusCodeSame.php

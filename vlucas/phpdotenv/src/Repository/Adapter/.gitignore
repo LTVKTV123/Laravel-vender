@@ -1,0 +1,13 @@
+/AdapterInterface.php
+/ApacheAdapter.php
+/ArrayAdapter.php
+/EnvConstAdapter.php
+/GuardedWriter.php
+/ImmutableWriter.php
+/MultiReader.php
+/MultiWriter.php
+/PutenvAdapter.php
+/ReaderInterface.php
+/ReplacingWriter.php
+/ServerConstAdapter.php
+/WriterInterface.php

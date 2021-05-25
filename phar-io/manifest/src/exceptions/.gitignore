@@ -1,0 +1,10 @@
+/ElementCollectionException.php
+/Exception.php
+/InvalidApplicationNameException.php
+/InvalidEmailException.php
+/InvalidUrlException.php
+/ManifestDocumentException.php
+/ManifestDocumentLoadingException.php
+/ManifestDocumentMapperException.php
+/ManifestElementException.php
+/ManifestLoaderException.php

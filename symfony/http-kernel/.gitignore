@@ -1,0 +1,14 @@
+/CHANGELOG.md
+/HttpClientKernel.php
+/HttpKernel.php
+/HttpKernelBrowser.php
+/HttpKernelInterface.php
+/Kernel.php
+/KernelEvents.php
+/KernelInterface.php
+/LICENSE
+/README.md
+/RebootableInterface.php
+/TerminableInterface.php
+/UriSigner.php
+/composer.json

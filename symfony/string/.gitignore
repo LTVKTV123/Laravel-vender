@@ -1,0 +1,10 @@
+/AbstractString.php
+/AbstractUnicodeString.php
+/ByteString.php
+/CHANGELOG.md
+/CodePointString.php
+/LICENSE
+/LazyString.php
+/README.md
+/UnicodeString.php
+/composer.json

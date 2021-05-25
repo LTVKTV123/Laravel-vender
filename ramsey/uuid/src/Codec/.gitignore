@@ -1,0 +1,6 @@
+/CodecInterface.php
+/GuidStringCodec.php
+/OrderedTimeCodec.php
+/StringCodec.php
+/TimestampFirstCombCodec.php
+/TimestampLastCombCodec.php

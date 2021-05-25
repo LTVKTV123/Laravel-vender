@@ -1,0 +1,5 @@
+/AbstractChunkOutputBuilder.php
+/DiffOnlyOutputBuilder.php
+/DiffOutputBuilderInterface.php
+/StrictUnifiedDiffOutputBuilder.php
+/UnifiedDiffOutputBuilder.php

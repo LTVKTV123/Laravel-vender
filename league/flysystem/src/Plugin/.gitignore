@@ -1,0 +1,10 @@
+/AbstractPlugin.php
+/EmptyDir.php
+/ForcedCopy.php
+/ForcedRename.php
+/GetWithMetadata.php
+/ListFiles.php
+/ListPaths.php
+/ListWith.php
+/PluggableTrait.php
+/PluginNotFoundException.php

@@ -1,0 +1,12 @@
+/BuilderNotFoundException.php
+/DateTimeException.php
+/DceSecurityException.php
+/InvalidArgumentException.php
+/InvalidBytesException.php
+/InvalidUuidStringException.php
+/NameException.php
+/NodeException.php
+/RandomSourceException.php
+/TimeSourceException.php
+/UnableToBuildUuidException.php
+/UnsupportedOperationException.php

@@ -1,0 +1,7 @@
+/BeanstalkdConnector.php
+/ConnectorInterface.php
+/DatabaseConnector.php
+/NullConnector.php
+/RedisConnector.php
+/SqsConnector.php
+/SyncConnector.php

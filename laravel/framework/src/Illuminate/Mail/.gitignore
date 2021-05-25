@@ -1,0 +1,10 @@
+/LICENSE.md
+/MailManager.php
+/MailServiceProvider.php
+/Mailable.php
+/Mailer.php
+/Markdown.php
+/Message.php
+/PendingMail.php
+/SendQueuedMailable.php
+/composer.json

@@ -1,0 +1,10 @@
+/BaseCommand.php
+/FreshCommand.php
+/InstallCommand.php
+/MigrateCommand.php
+/MigrateMakeCommand.php
+/RefreshCommand.php
+/ResetCommand.php
+/RollbackCommand.php
+/StatusCommand.php
+/TableGuesser.php

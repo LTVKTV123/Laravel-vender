@@ -1,0 +1,5 @@
+/AmbiguousOptionException.php
+/Exception.php
+/OptionDoesNotAllowArgumentException.php
+/RequiredOptionArgumentMissingException.php
+/UnknownOptionException.php

@@ -1,0 +1,11 @@
+/Constant.php
+/ConstantCollection.php
+/ConstantCollectionIterator.php
+/IniSetting.php
+/IniSettingCollection.php
+/IniSettingCollectionIterator.php
+/Php.php
+/PhpHandler.php
+/Variable.php
+/VariableCollection.php
+/VariableCollectionIterator.php

@@ -1,0 +1,10 @@
+/AutolinkParser.php
+/BacktickParser.php
+/BangParser.php
+/CloseBracketParser.php
+/EntityParser.php
+/EscapableParser.php
+/HtmlInlineParser.php
+/InlineParserInterface.php
+/NewlineParser.php
+/OpenBracketParser.php

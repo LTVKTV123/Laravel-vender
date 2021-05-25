@@ -1,0 +1,9 @@
+/AbstractVersionConstraint.php
+/AndVersionConstraintGroup.php
+/AnyVersionConstraint.php
+/ExactVersionConstraint.php
+/GreaterThanOrEqualToVersionConstraint.php
+/OrVersionConstraintGroup.php
+/SpecificMajorAndMinorVersionConstraint.php
+/SpecificMajorVersionConstraint.php
+/VersionConstraint.php

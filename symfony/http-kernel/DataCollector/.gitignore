@@ -1,0 +1,13 @@
+/AjaxDataCollector.php
+/ConfigDataCollector.php
+/DataCollector.php
+/DataCollectorInterface.php
+/DumpDataCollector.php
+/EventDataCollector.php
+/ExceptionDataCollector.php
+/LateDataCollectorInterface.php
+/LoggerDataCollector.php
+/MemoryDataCollector.php
+/RequestDataCollector.php
+/RouterDataCollector.php
+/TimeDataCollector.php

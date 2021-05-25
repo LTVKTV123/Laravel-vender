@@ -1,0 +1,7 @@
+/DNSCheckValidation.php
+/EmailValidation.php
+/MultipleErrors.php
+/MultipleValidationWithAnd.php
+/NoRFCWarningsValidation.php
+/RFCValidation.php
+/SpoofCheckValidation.php

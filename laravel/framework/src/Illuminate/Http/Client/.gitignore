@@ -1,0 +1,9 @@
+/ConnectionException.php
+/Factory.php
+/HttpClientException.php
+/PendingRequest.php
+/Pool.php
+/Request.php
+/RequestException.php
+/Response.php
+/ResponseSequence.php

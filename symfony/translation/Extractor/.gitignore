@@ -1,0 +1,5 @@
+/AbstractFileExtractor.php
+/ChainExtractor.php
+/ExtractorInterface.php
+/PhpExtractor.php
+/PhpStringTokenParser.php

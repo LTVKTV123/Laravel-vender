@@ -1,0 +1,5 @@
+/Exception.php
+/InvalidPreReleaseSuffixException.php
+/InvalidVersionException.php
+/NoPreReleaseSuffixException.php
+/UnsupportedVersionConstraintException.php

@@ -1,0 +1,5 @@
+/CramMd5Authenticator.php
+/LoginAuthenticator.php
+/NTLMAuthenticator.php
+/PlainAuthenticator.php
+/XOAuth2Authenticator.php

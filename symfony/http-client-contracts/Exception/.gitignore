@@ -1,0 +1,8 @@
+/ClientExceptionInterface.php
+/DecodingExceptionInterface.php
+/ExceptionInterface.php
+/HttpExceptionInterface.php
+/RedirectionExceptionInterface.php
+/ServerExceptionInterface.php
+/TimeoutExceptionInterface.php
+/TransportExceptionInterface.php

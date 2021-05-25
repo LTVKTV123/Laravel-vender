@@ -1,0 +1,5 @@
+/ExceptionInterface.php
+/InvalidEncodingException.php
+/InvalidFileException.php
+/InvalidPathException.php
+/ValidationException.php

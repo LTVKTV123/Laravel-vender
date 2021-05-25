@@ -1,0 +1,6 @@
+/Cloud.php
+/Factory.php
+/FileExistsException.php
+/FileNotFoundException.php
+/Filesystem.php
+/LockTimeoutException.php

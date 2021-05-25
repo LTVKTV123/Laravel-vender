@@ -1,0 +1,11 @@
+/Assert.php
+/AssertableJsonString.php
+/LICENSE.md
+/ParallelConsoleOutput.php
+/ParallelRunner.php
+/ParallelTesting.php
+/ParallelTestingServiceProvider.php
+/PendingCommand.php
+/TestResponse.php
+/TestView.php
+/composer.json

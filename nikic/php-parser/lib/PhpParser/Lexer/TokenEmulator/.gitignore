@@ -1,0 +1,10 @@
+/AttributeEmulator.php
+/CoaleseEqualTokenEmulator.php
+/FlexibleDocStringEmulator.php
+/FnTokenEmulator.php
+/KeywordEmulator.php
+/MatchTokenEmulator.php
+/NullsafeTokenEmulator.php
+/NumericLiteralSeparatorEmulator.php
+/ReverseEmulator.php
+/TokenEmulator.php

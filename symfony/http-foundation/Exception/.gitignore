@@ -1,0 +1,5 @@
+/BadRequestException.php
+/ConflictingHeadersException.php
+/JsonException.php
+/RequestExceptionInterface.php
+/SuspiciousOperationException.php

@@ -1,0 +1,13 @@
+/CustomFilterIterator.php
+/DateRangeFilterIterator.php
+/DepthRangeFilterIterator.php
+/ExcludeDirectoryFilterIterator.php
+/FileTypeFilterIterator.php
+/FilecontentFilterIterator.php
+/FilenameFilterIterator.php
+/LazyIterator.php
+/MultiplePcreFilterIterator.php
+/PathFilterIterator.php
+/RecursiveDirectoryIterator.php
+/SizeRangeFilterIterator.php
+/SortableIterator.php

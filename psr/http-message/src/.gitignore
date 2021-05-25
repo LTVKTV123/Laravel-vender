@@ -1,0 +1,7 @@
+/MessageInterface.php
+/RequestInterface.php
+/ResponseInterface.php
+/ServerRequestInterface.php
+/StreamInterface.php
+/UploadedFileInterface.php
+/UriInterface.php

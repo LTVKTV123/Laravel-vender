@@ -1,0 +1,8 @@
+/AbstractExtension.php
+/AttributeMatchingExtension.php
+/CombinationExtension.php
+/ExtensionInterface.php
+/FunctionExtension.php
+/HtmlExtension.php
+/NodeExtension.php
+/PseudoClassExtension.php

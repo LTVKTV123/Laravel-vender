@@ -1,0 +1,7 @@
+/.editorconfig
+/.php_cs
+/CHANGELOG.md
+/LICENSE
+/README.md
+/composer.json
+/psalm.xml

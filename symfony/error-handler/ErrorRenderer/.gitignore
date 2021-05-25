@@ -1,0 +1,4 @@
+/CliErrorRenderer.php
+/ErrorRendererInterface.php
+/HtmlErrorRenderer.php
+/SerializerErrorRenderer.php

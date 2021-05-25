@@ -1,0 +1,11 @@
+/Cache.php
+/CacheWarmer.php
+/CachingCoveredFileAnalyser.php
+/CachingUncoveredFileAnalyser.php
+/CodeUnitFindingVisitor.php
+/CoveredFileAnalyser.php
+/ExecutableLinesFindingVisitor.php
+/IgnoredLinesFindingVisitor.php
+/ParsingCoveredFileAnalyser.php
+/ParsingUncoveredFileAnalyser.php
+/UncoveredFileAnalyser.php

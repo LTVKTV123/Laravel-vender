@@ -1,0 +1,9 @@
+/IsEmptyStringTest.php
+/IsEqualIgnoringCaseTest.php
+/IsEqualIgnoringWhiteSpaceTest.php
+/MatchesPatternTest.php
+/StringContainsIgnoringCaseTest.php
+/StringContainsInOrderTest.php
+/StringContainsTest.php
+/StringEndsWithTest.php
+/StringStartsWithTest.php

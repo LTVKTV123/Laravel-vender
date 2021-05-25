@@ -1,0 +1,7 @@
+/JobExceptionOccurred.php
+/JobFailed.php
+/JobProcessed.php
+/JobProcessing.php
+/JobQueued.php
+/Looping.php
+/WorkerStopping.php

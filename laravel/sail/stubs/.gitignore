@@ -1,0 +1,9 @@
+/docker-compose.stub
+/mailhog.stub
+/mariadb.stub
+/meilisearch.stub
+/memcached.stub
+/mysql.stub
+/pgsql.stub
+/redis.stub
+/selenium.stub

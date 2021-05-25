@@ -1,0 +1,12 @@
+/AccessDeniedException.php
+/CannotWriteFileException.php
+/ExtensionFileException.php
+/FileException.php
+/FileNotFoundException.php
+/FormSizeFileException.php
+/IniSizeFileException.php
+/NoFileException.php
+/NoTmpDirFileException.php
+/PartialFileException.php
+/UnexpectedTypeException.php
+/UploadException.php

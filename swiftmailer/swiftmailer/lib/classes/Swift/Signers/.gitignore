@@ -1,0 +1,6 @@
+/BodySigner.php
+/DKIMSigner.php
+/DomainKeySigner.php
+/HeaderSigner.php
+/OpenDKIMSigner.php
+/SMimeSigner.php

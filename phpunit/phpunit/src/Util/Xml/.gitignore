@@ -1,0 +1,10 @@
+/Exception.php
+/FailedSchemaDetectionResult.php
+/Loader.php
+/SchemaDetectionResult.php
+/SchemaDetector.php
+/SchemaFinder.php
+/SnapshotNodeList.php
+/SuccessfulSchemaDetectionResult.php
+/ValidationResult.php
+/Validator.php

@@ -1,0 +1,7 @@
+/ExceptionInterface.php
+/InvalidArgumentException.php
+/LogicException.php
+/ProcessFailedException.php
+/ProcessSignaledException.php
+/ProcessTimedOutException.php
+/RuntimeException.php

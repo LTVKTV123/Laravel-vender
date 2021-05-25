@@ -1,0 +1,12 @@
+/AnyInvokedCount.php
+/AnyParameters.php
+/ConsecutiveParameters.php
+/InvocationOrder.php
+/InvokedAtIndex.php
+/InvokedAtLeastCount.php
+/InvokedAtLeastOnce.php
+/InvokedAtMostCount.php
+/InvokedCount.php
+/MethodName.php
+/Parameters.php
+/ParametersRule.php

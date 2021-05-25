@@ -1,0 +1,7 @@
+/README.md
+/parser.template
+/php5.y
+/php7.y
+/rebuildParsers.php
+/tokens.template
+/tokens.y

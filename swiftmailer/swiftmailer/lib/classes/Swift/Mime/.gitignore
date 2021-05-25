@@ -1,0 +1,13 @@
+/Attachment.php
+/CharsetObserver.php
+/ContentEncoder.php
+/EmbeddedFile.php
+/EncodingObserver.php
+/Header.php
+/HeaderEncoder.php
+/IdGenerator.php
+/MimePart.php
+/SimpleHeaderFactory.php
+/SimpleHeaderSet.php
+/SimpleMessage.php
+/SimpleMimeEntity.php

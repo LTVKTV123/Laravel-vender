@@ -1,0 +1,11 @@
+/ArrayCollection.php
+/Configuration.php
+/ConfigurationAwareInterface.php
+/ConfigurationInterface.php
+/Html5Entities.php
+/Html5EntityDecoder.php
+/LinkParserHelper.php
+/PrioritizedList.php
+/RegexHelper.php
+/UrlEncoder.php
+/Xml.php

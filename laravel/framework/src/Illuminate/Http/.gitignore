@@ -1,0 +1,10 @@
+/File.php
+/FileHelpers.php
+/JsonResponse.php
+/LICENSE.md
+/RedirectResponse.php
+/Request.php
+/Response.php
+/ResponseTrait.php
+/UploadedFile.php
+/composer.json

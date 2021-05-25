@@ -1,0 +1,12 @@
+/AbstractSessionHandler.php
+/IdentityMarshaller.php
+/MarshallingSessionHandler.php
+/MemcachedSessionHandler.php
+/MigratingSessionHandler.php
+/MongoDbSessionHandler.php
+/NativeFileSessionHandler.php
+/NullSessionHandler.php
+/PdoSessionHandler.php
+/RedisSessionHandler.php
+/SessionHandlerFactory.php
+/StrictSessionHandler.php

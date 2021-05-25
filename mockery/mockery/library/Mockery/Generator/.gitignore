@@ -1,0 +1,12 @@
+/CachingGenerator.php
+/DefinedTargetClass.php
+/Generator.php
+/Method.php
+/MockConfiguration.php
+/MockConfigurationBuilder.php
+/MockDefinition.php
+/MockNameBuilder.php
+/Parameter.php
+/StringManipulationGenerator.php
+/TargetClassInterface.php
+/UndefinedTargetClass.php

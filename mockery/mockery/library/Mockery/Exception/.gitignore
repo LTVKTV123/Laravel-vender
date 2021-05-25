@@ -1,0 +1,6 @@
+/BadMethodCallException.php
+/InvalidArgumentException.php
+/InvalidCountException.php
+/InvalidOrderException.php
+/NoMatchingExpectationException.php
+/RuntimeException.php

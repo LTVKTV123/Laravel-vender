@@ -1,0 +1,9 @@
+/Application.php
+/BufferedConsoleOutput.php
+/Command.php
+/ConfirmableTrait.php
+/GeneratorCommand.php
+/LICENSE.md
+/OutputStyle.php
+/Parser.php
+/composer.json

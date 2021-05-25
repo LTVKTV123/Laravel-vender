@@ -1,0 +1,8 @@
+/CommandNotFoundException.php
+/ExceptionInterface.php
+/InvalidArgumentException.php
+/InvalidOptionException.php
+/LogicException.php
+/MissingInputException.php
+/NamespaceNotFoundException.php
+/RuntimeException.php

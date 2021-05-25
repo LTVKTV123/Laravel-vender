@@ -1,0 +1,14 @@
+/CodeCleaner.php
+/ConfigPaths.php
+/Configuration.php
+/ConsoleColorFactory.php
+/Context.php
+/ContextAware.php
+/EnvInterface.php
+/ExecutionClosure.php
+/ExecutionLoopClosure.php
+/ParserFactory.php
+/Shell.php
+/Sudo.php
+/SuperglobalsEnv.php
+/functions.php

@@ -1,0 +1,11 @@
+/AbstractSmtpTransport.php
+/EsmtpHandler.php
+/EsmtpTransport.php
+/FailoverTransport.php
+/IoBuffer.php
+/LoadBalancedTransport.php
+/NullTransport.php
+/SendmailTransport.php
+/SmtpAgent.php
+/SpoolTransport.php
+/StreamBuffer.php

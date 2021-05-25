@@ -1,0 +1,6 @@
+/DivisionByZeroException.php
+/IntegerOverflowException.php
+/MathException.php
+/NegativeNumberException.php
+/NumberFormatException.php
+/RoundingNecessaryException.php

@@ -1,0 +1,12 @@
+/CsvFileDumper.php
+/DumperInterface.php
+/FileDumper.php
+/IcuResFileDumper.php
+/IniFileDumper.php
+/JsonFileDumper.php
+/MoFileDumper.php
+/PhpFileDumper.php
+/PoFileDumper.php
+/QtFileDumper.php
+/XliffFileDumper.php
+/YamlFileDumper.php

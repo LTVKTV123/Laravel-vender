@@ -1,0 +1,9 @@
+/BufferedOutput.php
+/ConsoleOutput.php
+/ConsoleOutputInterface.php
+/ConsoleSectionOutput.php
+/NullOutput.php
+/Output.php
+/OutputInterface.php
+/StreamOutput.php
+/TrimmedBufferOutput.php

@@ -1,0 +1,13 @@
+/AddAnnotatedClassesToCachePass.php
+/ConfigurableExtension.php
+/ControllerArgumentValueResolverPass.php
+/Extension.php
+/FragmentRendererPass.php
+/LazyLoadingFragmentHandler.php
+/LoggerPass.php
+/MergeExtensionConfigurationPass.php
+/RegisterControllerArgumentLocatorsPass.php
+/RegisterLocaleAwareServicesPass.php
+/RemoveEmptyControllerArgumentLocatorsPass.php
+/ResettableServicePass.php
+/ServicesResetter.php

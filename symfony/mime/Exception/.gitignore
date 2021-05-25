@@ -1,0 +1,6 @@
+/AddressEncoderException.php
+/ExceptionInterface.php
+/InvalidArgumentException.php
+/LogicException.php
+/RfcComplianceException.php
+/RuntimeException.php

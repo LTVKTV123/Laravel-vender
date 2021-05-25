@@ -1,0 +1,10 @@
+/Analyzer.php
+/ClosureContext.php
+/ClosureScope.php
+/ClosureStream.php
+/ISecurityProvider.php
+/ReflectionClosure.php
+/SecurityException.php
+/SecurityProvider.php
+/SelfReference.php
+/SerializableClosure.php

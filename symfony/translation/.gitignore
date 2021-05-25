@@ -1,0 +1,15 @@
+/CHANGELOG.md
+/DataCollectorTranslator.php
+/IdentityTranslator.php
+/LICENSE
+/LoggingTranslator.php
+/MessageCatalogue.php
+/MessageCatalogueInterface.php
+/MetadataAwareInterface.php
+/PluralizationRules.php
+/PseudoLocalizationTranslator.php
+/README.md
+/TranslatableMessage.php
+/Translator.php
+/TranslatorBagInterface.php
+/composer.json

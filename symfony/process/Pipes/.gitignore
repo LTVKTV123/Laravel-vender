@@ -1,0 +1,4 @@
+/AbstractPipes.php
+/PipesInterface.php
+/UnixPipes.php
+/WindowsPipes.php

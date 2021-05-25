@@ -1,0 +1,5 @@
+/Authenticate.php
+/AuthenticateWithBasicAuth.php
+/Authorize.php
+/EnsureEmailIsVerified.php
+/RequirePassword.php

@@ -1,0 +1,13 @@
+/AddressEncoderInterface.php
+/Base64ContentEncoder.php
+/Base64Encoder.php
+/Base64MimeHeaderEncoder.php
+/ContentEncoderInterface.php
+/EightBitContentEncoder.php
+/EncoderInterface.php
+/IdnAddressEncoder.php
+/MimeHeaderEncoderInterface.php
+/QpContentEncoder.php
+/QpEncoder.php
+/QpMimeHeaderEncoder.php
+/Rfc2231Encoder.php

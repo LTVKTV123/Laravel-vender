@@ -1,0 +1,10 @@
+/IsEmptyString.php
+/IsEqualIgnoringCase.php
+/IsEqualIgnoringWhiteSpace.php
+/MatchesPattern.php
+/StringContains.php
+/StringContainsIgnoringCase.php
+/StringContainsInOrder.php
+/StringEndsWith.php
+/StringStartsWith.php
+/SubstringMatcher.php

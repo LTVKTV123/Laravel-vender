@@ -1,0 +1,16 @@
+/Address.php
+/BodyRendererInterface.php
+/CHANGELOG.md
+/CharacterStream.php
+/Email.php
+/FileBinaryMimeTypeGuesser.php
+/FileinfoMimeTypeGuesser.php
+/LICENSE
+/Message.php
+/MessageConverter.php
+/MimeTypeGuesserInterface.php
+/MimeTypes.php
+/MimeTypesInterface.php
+/README.md
+/RawMessage.php
+/composer.json

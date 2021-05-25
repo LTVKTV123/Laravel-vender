@@ -1,0 +1,14 @@
+/ArraySessionHandler.php
+/CacheBasedSessionHandler.php
+/CookieSessionHandler.php
+/DatabaseSessionHandler.php
+/EncryptedStore.php
+/ExistenceAwareInterface.php
+/FileSessionHandler.php
+/LICENSE.md
+/NullSessionHandler.php
+/SessionManager.php
+/SessionServiceProvider.php
+/Store.php
+/TokenMismatchException.php
+/composer.json

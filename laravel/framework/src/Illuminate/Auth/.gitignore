@@ -1,0 +1,16 @@
+/AuthManager.php
+/AuthServiceProvider.php
+/Authenticatable.php
+/AuthenticationException.php
+/CreatesUserProviders.php
+/DatabaseUserProvider.php
+/EloquentUserProvider.php
+/GenericUser.php
+/GuardHelpers.php
+/LICENSE.md
+/MustVerifyEmail.php
+/Recaller.php
+/RequestGuard.php
+/SessionGuard.php
+/TokenGuard.php
+/composer.json

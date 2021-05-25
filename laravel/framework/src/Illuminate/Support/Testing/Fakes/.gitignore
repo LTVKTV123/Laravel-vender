@@ -1,0 +1,9 @@
+/BatchRepositoryFake.php
+/BusFake.php
+/EventFake.php
+/MailFake.php
+/NotificationFake.php
+/PendingBatchFake.php
+/PendingChainFake.php
+/PendingMailFake.php
+/QueueFake.php

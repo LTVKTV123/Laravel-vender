@@ -1,0 +1,14 @@
+/ArrayLoader.php
+/CsvFileLoader.php
+/FileLoader.php
+/IcuDatFileLoader.php
+/IcuResFileLoader.php
+/IniFileLoader.php
+/JsonFileLoader.php
+/LoaderInterface.php
+/MoFileLoader.php
+/PhpFileLoader.php
+/PoFileLoader.php
+/QtFileLoader.php
+/XliffFileLoader.php
+/YamlFileLoader.php

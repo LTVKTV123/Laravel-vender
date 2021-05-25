@@ -1,0 +1,3 @@
+/HttpResponseException.php
+/PostTooLargeException.php
+/ThrottleRequestsException.php

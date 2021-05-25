@@ -1,0 +1,15 @@
+/BelongsTo.php
+/BelongsToMany.php
+/HasMany.php
+/HasManyThrough.php
+/HasOne.php
+/HasOneOrMany.php
+/HasOneThrough.php
+/MorphMany.php
+/MorphOne.php
+/MorphOneOrMany.php
+/MorphPivot.php
+/MorphTo.php
+/MorphToMany.php
+/Pivot.php
+/Relation.php

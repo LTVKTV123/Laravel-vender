@@ -1,0 +1,4 @@
+/.php_cs
+/LICENSE.md
+/composer.json
+/psalm.xml

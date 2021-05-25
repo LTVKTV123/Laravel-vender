@@ -1,0 +1,17 @@
+/ChromePHPFormatter.php
+/ElasticaFormatter.php
+/ElasticsearchFormatter.php
+/FlowdockFormatter.php
+/FluentdFormatter.php
+/FormatterInterface.php
+/GelfMessageFormatter.php
+/HtmlFormatter.php
+/JsonFormatter.php
+/LineFormatter.php
+/LogglyFormatter.php
+/LogmaticFormatter.php
+/LogstashFormatter.php
+/MongoDBFormatter.php
+/NormalizerFormatter.php
+/ScalarFormatter.php
+/WildfireFormatter.php

@@ -1,0 +1,11 @@
+/InteractsWithAuthentication.php
+/InteractsWithConsole.php
+/InteractsWithContainer.php
+/InteractsWithDatabase.php
+/InteractsWithExceptionHandling.php
+/InteractsWithRedis.php
+/InteractsWithSession.php
+/InteractsWithTime.php
+/InteractsWithViews.php
+/MakesHttpRequests.php
+/MocksApplicationServices.php

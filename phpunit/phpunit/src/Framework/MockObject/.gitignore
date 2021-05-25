@@ -1,0 +1,15 @@
+/ConfigurableMethod.php
+/Generator.php
+/Invocation.php
+/InvocationHandler.php
+/Matcher.php
+/MethodNameConstraint.php
+/MockBuilder.php
+/MockClass.php
+/MockMethod.php
+/MockMethodSet.php
+/MockObject.php
+/MockTrait.php
+/MockType.php
+/Stub.php
+/Verifiable.php

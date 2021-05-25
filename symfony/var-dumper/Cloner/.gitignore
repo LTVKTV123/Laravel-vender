@@ -1,0 +1,7 @@
+/AbstractCloner.php
+/ClonerInterface.php
+/Cursor.php
+/Data.php
+/DumperInterface.php
+/Stub.php
+/VarCloner.php

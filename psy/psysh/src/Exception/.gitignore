@@ -1,0 +1,10 @@
+/BreakException.php
+/DeprecatedException.php
+/ErrorException.php
+/Exception.php
+/FatalErrorException.php
+/ParseErrorException.php
+/RuntimeException.php
+/ThrowUpException.php
+/TypeErrorException.php
+/UnexpectedTargetException.php

@@ -1,0 +1,8 @@
+/AbstractHeader.php
+/DateHeader.php
+/IdentificationHeader.php
+/MailboxHeader.php
+/OpenDKIMHeader.php
+/ParameterizedHeader.php
+/PathHeader.php
+/UnstructuredHeader.php

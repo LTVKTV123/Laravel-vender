@@ -1,0 +1,10 @@
+/CHANGELOG.md
+/EventDispatcher.php
+/EventDispatcherInterface.php
+/EventSubscriberInterface.php
+/GenericEvent.php
+/ImmutableEventDispatcher.php
+/LICENSE
+/LegacyEventDispatcherProxy.php
+/README.md
+/composer.json

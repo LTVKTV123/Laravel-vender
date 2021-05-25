@@ -1,0 +1,8 @@
+/.php_cs
+/CHANGELOG.md
+/LICENSE.md
+/README.md
+/composer.json
+/package.json
+/psalm-baseline.xml
+/psalm.xml

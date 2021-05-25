@@ -1,0 +1,7 @@
+/ApplicationDescription.php
+/Descriptor.php
+/DescriptorInterface.php
+/JsonDescriptor.php
+/MarkdownDescriptor.php
+/TextDescriptor.php
+/XmlDescriptor.php

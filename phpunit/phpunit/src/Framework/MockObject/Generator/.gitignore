@@ -1,0 +1,10 @@
+/deprecation.tpl
+/mocked_class.tpl
+/mocked_method.tpl
+/mocked_method_void.tpl
+/mocked_static_method.tpl
+/proxied_method.tpl
+/proxied_method_void.tpl
+/trait_class.tpl
+/wsdl_class.tpl
+/wsdl_method.tpl
